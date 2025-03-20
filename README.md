@@ -12,7 +12,7 @@
 - 🚀 [Hệ thống API với NestJS](https://github.com/yourproject)  
 
 ### ⚡ Kỹ năng
-- 🔹 **Front-end**: HTML, CSS, JavaScript (ES6+), React, Next.js.  
+- 🔹 **Front-end**: HTML, CSS, JavaScript, React, Next.js.  
 - 🔹 **Back-end**: Node.js, Express, NestJS.  
 - 🔹 **Database**: MySQL, PostgreSQL, MongoDB.  
 - 🔹 **DevOps**: Docker, Linux, CI/CD.  
