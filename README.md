@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Xin chào! Tôi là Lê Tuấn Kha  
 
-<!--
-**LeTuanKhaTTD/LeTuanKhaTTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Về tôi
+- 🎓 Sinh viên công nghệ, đam mê lập trình web.  
+- 💻 Chuyên về **JavaScript, TypeScript, React, Node.js, và MySQL**.  
+- 🌍 Đang học và phát triển các ứng dụng web hiện đại.  
+- 🏗 Quan tâm đến phát triển Full-stack với **Next.js và NestJS**.  
 
-Here are some ideas to get you started:
+### 🏆 Dự án tiêu biểu
+- 🌐 [Website thương mại điện tử](https://github.com/yourproject)  
+- 📊 [Ứng dụng quản lý sinh viên](https://github.com/yourproject)  
+- 🚀 [Hệ thống API với NestJS](https://github.com/yourproject)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Kỹ năng
+- 🔹 **Front-end**: HTML, CSS, JavaScript (ES6+), React, Next.js.  
+- 🔹 **Back-end**: Node.js, Express, NestJS.  
+- 🔹 **Database**: MySQL, PostgreSQL, MongoDB.  
+- 🔹 **DevOps**: Docker, Linux, CI/CD.  
+
+### 📈 Thống kê GitHub
+
+### 📫 Liên hệ
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:letuankhang.07012004@gmail.com)  
