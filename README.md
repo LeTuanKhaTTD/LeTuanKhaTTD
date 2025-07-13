@@ -6,16 +6,11 @@
 - 🌍 Đang học và phát triển các ứng dụng web hiện đại.  
 - 🏗 Quan tâm đến phát triển Full-stack với **Next.js và NestJS**.  
 
-### Dự án tiêu biểu
-- 🌐 [Website thương mại điện tử](https://github.com/yourproject)  
-- 📊 [Ứng dụng quản lý sinh viên](https://github.com/yourproject)  
-- 🚀 [Hệ thống API với NestJS](https://github.com/yourproject)  
-
 ### Kỹ năng
 - 🔹 **Front-end**: HTML, CSS, JavaScript, React, Next.js.  
-- 🔹 **Back-end**: Node.js, Express, NestJS.  
-- 🔹 **Database**: MySQL, PostgreSQL, MongoDB.  
-- 🔹 **DevOps**: Docker, Linux, CI/CD.  
+- 🔹 **Back-end**: Node.js.
+- 🔹 **Database**: MySQL, MongoDB.  
+- 🔹 **DevOps**: Docker.
 
 ### Thống kê GitHub
 
