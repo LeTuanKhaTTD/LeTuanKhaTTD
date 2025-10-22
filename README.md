@@ -7,10 +7,10 @@
 - 🏗 Quan tâm đến phát triển Full-stack với **Next.js và NestJS**.  
 
 ### Kỹ năng
-- 🔹 **Front-end**: HTML, CSS, JavaScript, React, Next.js.  
-- 🔹 **Back-end**: Node.js.
-- 🔹 **Database**: MySQL, MongoDB.  
-- 🔹 **DevOps**: Docker.
+-  **Front-end**: HTML, CSS, JavaScript, React, Next.js.  
+-  **Back-end**: Node.js.
+-  **Database**: MySQL, MongoDB.  
+-  **DevOps**: Docker.
 
 ### Thống kê GitHub
 
